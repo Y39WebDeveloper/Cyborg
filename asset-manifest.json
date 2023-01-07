@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cyborg/static/css/main.da9fd5a1.css",
+    "main.js": "/Cyborg/static/js/main.23e88f0f.js",
+    "static/media/banner-bg.jpg": "/Cyborg/static/media/banner-bg.ec684b38bcf9c8b31b28.jpg",
+    "static/media/library_item_3.jpg": "/Cyborg/static/media/library_item_3.717ddd4e3dd9b2757b43.jpg",
+    "static/media/library_item_1.jpg": "/Cyborg/static/media/library_item_1.39e841bfa6c473b43e2d.jpg",
+    "static/media/popular_6.jpg": "/Cyborg/static/media/popular_6.ecd967622a126b270d40.jpg",
+    "static/media/popular_7.jpg": "/Cyborg/static/media/popular_7.1e0db2eadcd90f3938c2.jpg",
+    "static/media/popular_1.jpg": "/Cyborg/static/media/popular_1.99b9d2b4ad4e1c7987d2.jpg",
+    "static/media/popular_4.jpg": "/Cyborg/static/media/popular_4.d92f3beee75990f834c0.jpg",
+    "static/media/library_item_2.jpg": "/Cyborg/static/media/library_item_2.957005461e80ef626bc4.jpg",
+    "static/media/popular_3.jpg": "/Cyborg/static/media/popular_3.bcdf18f07a1317963473.jpg",
+    "static/media/popular_8.jpg": "/Cyborg/static/media/popular_8.cafbc44a97aff289e315.jpg",
+    "static/media/popular_2.jpg": "/Cyborg/static/media/popular_2.976cf257141c69e399ae.jpg",
+    "static/media/popular_5.jpg": "/Cyborg/static/media/popular_5.70adfe92c51f5ccd2b6f.jpg",
+    "static/media/logo.svg": "/Cyborg/static/media/logo.ed5b308c16dd9ea9689ce1c85f32bc38.svg",
+    "index.html": "/Cyborg/index.html",
+    "main.da9fd5a1.css.map": "/Cyborg/static/css/main.da9fd5a1.css.map",
+    "main.23e88f0f.js.map": "/Cyborg/static/js/main.23e88f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9fd5a1.css",
+    "static/js/main.23e88f0f.js"
+  ]
+}
